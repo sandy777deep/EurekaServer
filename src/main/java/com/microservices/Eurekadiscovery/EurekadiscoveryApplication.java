@@ -14,6 +14,6 @@ public class EurekadiscoveryApplication {
 		SpringApplication.run(EurekadiscoveryApplication.class, args);
 	}
 
-	
+	public String s="Sandy";
 	
 }
